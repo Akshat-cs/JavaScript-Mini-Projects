@@ -6,8 +6,8 @@ One of the mini mini projects in my Javascript mastery series. Basic password hi
 
 ## Password Hidden (Before click)
 
-![Password Toggle](image.png)
+![Password Toggle](images/PasswordHidden.png)
 
 ## Password Shown (After Click)
 
-![Password Toggle](image-1.png)
+![Password Toggle](images/PasswordShown.png)
