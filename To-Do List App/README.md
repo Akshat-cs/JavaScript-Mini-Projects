@@ -4,4 +4,4 @@ One of the mini projects in my Javascript mastery series. Made the ToDo List per
 
 # Project Screenshots
 
-![ToDo App UI](ss.png)
+![ToDo App UI](images/ss.png)
