@@ -1,4 +1,4 @@
-# Overview
+# Drag and Drop Project
 
 One of the mini mini projects in my Javascript mastery series. Drag and drop using eventListeners on the list items.
 

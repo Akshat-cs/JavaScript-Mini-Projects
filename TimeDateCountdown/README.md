@@ -1,4 +1,4 @@
-# Overview
+# TimeDate Countdown Launching Site
 
 One of the mini mini projects in my Javascript mastery series. Basic Launching website with TimeDate Countdown.
 

@@ -1,4 +1,4 @@
-# Overview
+# Text to Speech Converter Project
 
 One of the mini mini projects in my Javascript mastery series. Used Web Speech API (SpeechSynthesisUtterance) from JS to convert text to speech in different different languages.
 

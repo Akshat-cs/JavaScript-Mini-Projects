@@ -1,4 +1,4 @@
-# Overview
+# Password Toggle Project
 
 One of the mini mini projects in my Javascript mastery series. Basic password hiding and showing off by clicking on eye icon.
 
