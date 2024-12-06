@@ -1,6 +1,6 @@
 # Overview
 
-This repository consists of 6 mini projects that I did to go through concepts of HTML, CSS, JavaScript.
+This repository consists of 9 mini projects that I did to go through concepts of HTML, CSS, JavaScript.
 
 ## Quiz App (Project 1)
 
@@ -25,3 +25,15 @@ A very basic Time Date Countdown launching home page.
 ## Password Toggle (Project 6)
 
 Password Showing and Hiding by clicking on eye icon.
+
+## Random Quote generator (Project 7)
+
+Random Quote generator App which generates a new quote whenever you click the New Quote button and also has a special feature through which you can tweet the Quote on X when you click on Tweet Button.
+
+## Age Calculator (Project 8)
+
+This is a Age Calculator Project where select your Date of Birth and click on calculate button and you will see how old you are in years, months and days.
+
+## Image Search (Project 9)
+
+In this project I used Unsplash free web API for getting images and displayed them on the page.
